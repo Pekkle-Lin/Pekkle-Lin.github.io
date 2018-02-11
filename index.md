@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# 简历（2018年2月）
 
-You can use the [editor on GitHub](https://github.com/Pekkle-Lin/Pekkle-Lin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 一· 个人信息
+    1. 林先生，广东人，34岁，身体健康，五官端正，无不良嗜好。
+    2. 户籍地及居住地：广州市天河区。
+    3. 语言：母语为粤语，国语流利，英语日常工作交流流利。
+    4. 学历：华南理工大学，信息工程，2007届本科毕业。
+    5. 联系方式： 微信号 pekkle 。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 二· 工作履历
+    1. 从2007年7月至今，就职于汇丰银行设立于广州的软件开发中心。
+    2. 2007年至2014年从事Oracle数据仓库及Cognos报表开发。
+    3. 2014年至今从事Java web应用开发，主要领域为：内部业务数据系统，环境管理工具，辅助开发工具，流程自动化工具等。
+    4. 曾负责项目管理、需求分析、文档编写、系统设计、开发测试、上线部署、运维支持、指导新人、团建统筹等各方面工作。
 
-### Markdown
+## 三· 工作技能
+    1. 熟练掌握后端开发 Java， Spring Boot，MVC，JPA，JMS 等技术的应用，有 Node.js 应用开发经验。
+    2. 熟练掌握前端开发 HTML，JavaScript，Angular，NPM 等相关技术。
+    3. 熟悉数据库Oracle SQL编写，PLSQL存储过程编写。
+    4. 熟悉使用 IBM RTC，Git，maven，JUnit, Jenkins 等测试和构建工具。
+    5. 了解 Ansible，docker，kubernetes 等自动化和容器化工具。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 四· 求职意向
+    1. Java 后端业务系统开发。
+    2. Node.js 应用开发。
+    3. Web 前端开发。
+    4. 移动端开发。（尚无经验）
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pekkle-Lin/Pekkle-Lin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 五· 工作要求
+    1. 五天工作制，接受周末或节假日有偿加班。
+    2. 期望年薪 30万。
+    3. 五险一金。
+    4. 带薪年假。
